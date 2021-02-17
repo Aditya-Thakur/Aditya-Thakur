@@ -14,8 +14,7 @@
  <img height="165" src="https://github-readme-stats.aditya-thakur.vercel.app/api?username=aditya-thakur&hide=Stars,prs,contribs&count_private=true&show_icons=true&theme=radical&custom_title=My%20contributions%20yet">
 <img height="165" src="https://github-readme-stats.aditya-thakur.vercel.app/api/top-langs/?username=aditya-thakur&hide=scss&langs_count=9&layout=compact&custom_title=Preferred%20Languages&theme=radical">
 </p>
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+### Currently Listening to 🎧
+[![Spotify](https://novatorem-git-master.aditya-thakur.vercel.app/api/spotify)](https://open.spotify.com/user/31pphvdlfmygbdbamkvtvyxvh7lq)
 
 
