@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/adityathakur/adityathakur/master/name.svg" alt="Aditya" />
+  <img src="https://raw.githubusercontent.com/Aditya-Thakur/Aditya-Thakur/20b0424b7befc2d5ebd2db20bd176f2f6daf4308/name.svg" alt="Aditya" />
 </h1>
 
 <h2>नमस्ते (Namaste)🙏🏻,</h2>
