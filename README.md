@@ -26,6 +26,27 @@ npx adityathakur
 
 <p float="left">
  <img height="165" src="https://github-readme-stats.aditya-thakur.vercel.app/api?username=aditya-thakur&hide=Stars,prs,contribs&count_private=true&show_icons=true&theme=radical&custom_title=My%20contributions%20yet">
-<img height="165" src="https://github-readme-stats.aditya-thakur.vercel.app/api/top-langs/?username=aditya-thakur&hide=scss&langs_count=9&layout=compact&custom_title=Preferred%20Languages&theme=radical">
+<img height="165" src="https://github-readme-stats.aditya-thakur.vercel.app/api/top-langs/?username=aditya-thakur&hide=scss&langs_count=9&layout=compact&custom_title=Languages%20I%20Have%20Used%20Yet&theme=radical">
 </p>
+
+
+```javascript
+const Aditya = {
+    technologies: {
+        mobileApp: ["Ionic Cross Platform"],
+        frontEnd: {
+            js: ["Angular", "React"],
+            css: ["materialize", "semantic", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "MSSQL"],
+        misc: ["Firebase", "open-cv", , "tensorflow", "php"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+};
+```
 
