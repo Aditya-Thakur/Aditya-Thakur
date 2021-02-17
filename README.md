@@ -1,4 +1,8 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Aditya! <img src="https://media.tenor.com/images/5f94cbe5a7fa6eb2e360b53d8cbe5803/tenor.gif" width="50"></h2>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/adityathakur/adityathakur/master/name.svg" alt="Aditya" />
+</h1>
+
+<h2>नमस्ते (Namaste)🙏🏻,</h2>
 <img align='right' src="https://media1.tenor.com/images/7345bd2ae5fd3d613cf7bab9198d4fed/tenor.gif?itemid=12616228" width="230">
 
 <p><em>Software Engineer at <a href="http://www.infosys.com">Infosys</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
