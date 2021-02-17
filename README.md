@@ -8,7 +8,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya532/)](https://www.linkedin.com/in/aditya532/)
 ![GitHub followers](https://img.shields.io/github/followers/aditya-thakur?label=Follow&style=social)
 
-👇 Would you like to meet me in your termminal!
+👇 Would you like to meet me in your terminal!
 ```bash
 npx adityathakur
 ```
@@ -40,7 +40,8 @@ const Aditya = {
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask"]
+            python: ["flask"],
+            java: ["springboot", "spring", "hibernate"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "MSSQL"],
