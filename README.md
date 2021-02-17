@@ -15,6 +15,4 @@
 <img height="165" src="https://github-readme-stats.aditya-thakur.vercel.app/api/top-langs/?username=aditya-thakur&hide=scss&langs_count=9&layout=compact&custom_title=Preferred%20Languages&theme=radical">
 </p>
 ### Currently Listening to 🎧
-[![Spotify](https://novatorem-git-master.aditya-thakur.vercel.app/api/spotify)](https://open.spotify.com/user/31pphvdlfmygbdbamkvtvyxvh7lq)
-
-
+[<img src="https://novatorem-dusky-nine.vercel.app/api/spotify" alt="Aditya Spotify Playing" width="350" />]
