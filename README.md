@@ -1,5 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Aditya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/l378nbxfSUXPakf9S/giphy.gif" width="230">
+<img align='right' src="https://media1.tenor.com/images/7345bd2ae5fd3d613cf7bab9198d4fed/tenor.gif?itemid=12616228" width="230">
+
 <p><em>Software Engineer at <a href="http://www.infosys.com">Infosys</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
