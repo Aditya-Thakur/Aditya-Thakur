@@ -11,4 +11,4 @@
  - 💬 Ask me about Angular
  - 📫 How to reach me: [Email Me](mailto:adityathakur532@gmail.com)
  - ⚡ Fun fact: I am such an audiophile if music is bad, my ears starts bleeding. 
-
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-thakur&hide=Stars,prs,contribs&count_private=true&show_icons=true&theme=radical&custom_title=My%20contribution%20yet">
