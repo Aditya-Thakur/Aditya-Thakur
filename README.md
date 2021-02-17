@@ -7,10 +7,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/aditya78321338?label=Follow)](https://twitter.com/intent/follow?screen_name=aditya78321338)
 [![Linkedin: anmol](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya532/)](https://www.linkedin.com/in/aditya532/)
 ![GitHub followers](https://img.shields.io/github/followers/aditya-thakur?label=Follow&style=social)
+👇 Hit in your terminal to connect with me.
+
+```bash
+npx anmol
+```
+
 
  - 🔭 I’m currently working on Fantasy Sports Application
  - 🌱 I’m currently learning React 
- - 🤔 I’m looking for help with Fantasy Sports Application
+ - 🤔 I’m looking for ideas on my npx buisness card
  - 🥅 2021 Goals: Contribute more to Open Source projects
  - ⚡ Fun fact: I am such an audiophile if music is bad, my ears starts bleeding. 
 
