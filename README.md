@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-Thakur/Aditya-Thakur/1ff1e2fb72e958b24ad01eefb0197f2df29e2e60/name.svg" alt="Aditya" />
+  <img src="https://raw.githubusercontent.com/Aditya-Thakur/Aditya-Thakur/2e874a3c5b340e7e50b29ddf1ca69250a2b173d0/name.svg" alt="Aditya" />
 </h1>
 
 <h2> मेरी प्रोफाइल पर स्वागत है (Welcome to my profile)🙏🏻</h2>
