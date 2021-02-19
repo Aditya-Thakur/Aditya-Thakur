@@ -11,6 +11,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/aditya78321338?label=Follow)](https://twitter.com/intent/follow?screen_name=aditya78321338)
 [![Linkedin: anmol](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya532/)](https://www.linkedin.com/in/aditya532/)
 ![GitHub followers](https://img.shields.io/github/followers/aditya-thakur?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=aditya-thakur.aditya-thakur)
 
 👇 Would you like to meet me in your terminal!
 ```bash
