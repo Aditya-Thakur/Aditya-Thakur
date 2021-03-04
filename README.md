@@ -22,7 +22,7 @@ npx adityathakur
 <img src="https://novatorem-dusky-nine.vercel.app/api/spotify" alt="Aditya Spotify Playing" width="350" />
 <br />
 
- - 🔭 I’m currently working on Fantasy Sports Application
+ - 🔭 I’m currently working on ERP Tool for Coaching Center
  - 🌱 I’m currently learning React 
  - 🤔 I’m looking for ideas on my npx buisness card
  - 🥅 2021 Goals: Contribute more to Open Source projects
