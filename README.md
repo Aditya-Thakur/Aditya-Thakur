@@ -46,7 +46,7 @@ const Aditya = {
         backEnd: {
             js: ["node", "express"],
             python: ["flask"],
-            java: ["springboot", "spring", "hibernate"]
+            java: ["springboot"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "MSSQL"],
