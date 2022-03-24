@@ -25,7 +25,7 @@ npx adityathakur
  - 🔭 I’m currently working on ERP Tool for Coaching Center
  - 🌱 I’m currently learning React 
  - 🤔 I’m looking for ideas on my npx buisness card
- - 🥅 2021 Goals: Contribute more to Open Source projects
+ - 🥅 2022 Goals: Contribute more to Open Source projects
  - ⚡ Fun fact: I am such an audiophile if music is bad, my ears starts bleeding. 
 
 
