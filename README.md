@@ -5,11 +5,11 @@
 <h2> मेरी प्रोफाइल पर स्वागत है (Welcome to my profile)🙏🏻</h2>
 <img align='right' src="https://media1.tenor.com/images/7345bd2ae5fd3d613cf7bab9198d4fed/tenor.gif?itemid=12616228" width="230">
 
-<p><em>Software Engineer at <a href="https://www.publicissapient.com/">Publicis Sapient</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Senior Software Engineer at <a href="https://bbinsight.com/">Blackbuck Insights</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aditya_tkr?label=Follow)](https://twitter.com/intent/follow?screen_name=aditya78321338)
-[![Linkedin: anmol](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya532/)](https://www.linkedin.com/in/aditya532/)
+[![Linkedin: aditya](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya532/)](https://www.linkedin.com/in/aditya532/)
 ![GitHub followers](https://img.shields.io/github/followers/aditya-thakur?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=aditya-thakur.aditya-thakur)
 
@@ -46,7 +46,7 @@ const Aditya = {
         backEnd: {
             js: ["node", "express"],
             python: ["flask"],
-            java: ["springboot"]
+            java: ["springboot", "apache camel"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "MSSQL"],
