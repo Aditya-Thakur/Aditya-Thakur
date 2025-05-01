@@ -17,15 +17,12 @@
 ```bash
 npx adityathakur
 ```
-### Currently Listening to 🎧
-
-<img src="https://novatorem-dusky-nine.vercel.app/api/spotify" alt="Aditya Spotify Playing" width="350" />
 <br />
 
- - 🔭 I’m currently working on ERP Tool for Coaching Center
- - 🌱 I’m currently learning React 
- - 🤔 I’m looking for ideas on my npx buisness card
- - 🥅 2022 Goals: Contribute more to Open Source projects
+ - 🔭 I’m currently leveraging generative AI to build almost any tool that comes to mind.
+ - 🌱 I’m currently learning to build SAAS applications 
+ - 🤔 I’m looking for ideas on my social works related to cyber security.
+ - 🥅 2025 Goals: Moving abroad
  - ⚡ Fun fact: I am such an audiophile if music is bad, my ears starts bleeding. 
 
 
@@ -38,10 +35,10 @@ npx adityathakur
 ```javascript
 const Aditya = {
     technologies: {
-        mobileApp: ["Ionic Cross Platform"],
+        mobileApp: ["Ionic Cross Platform", "React Native", "Flutter"],
         frontEnd: {
-            js: ["Angular", "React"],
-            css: ["materialize", "semantic", "bootstrap"]
+            js: ["Angular", "React", "Svelte"],
+            css: ["tailwind","materialize", "semantic", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
